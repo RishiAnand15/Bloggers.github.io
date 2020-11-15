@@ -115,6 +115,7 @@ nav{
         text-transform: capitalize;
     }
     .logo-side-nav{
+        display:block;
         margin-top: 5px;
         margin-right: 20px;
         color: black;
@@ -124,6 +125,7 @@ nav{
         /* border: 1px solid black; */
     }
     .close-sidenav-btn{
+        display:block;
         margin-top: 5px;
         margin-right: 20px;
         color: black;
