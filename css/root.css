@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color: rgb(53, 181, 255);
+    --primary-lite-color: rgb(174, 225, 255);
+    --secondary-color: rgb(255, 252, 67);
+    --secondary-lite-color: rgb(255, 253, 147);
+    --nav-hight: 50px;
+    --nav-hight-search: 40px;
+    --logo-font-size:25px;
+    --menu-item-font-Size:18px;
+    --menu-item-margin-left:15px;
+}
