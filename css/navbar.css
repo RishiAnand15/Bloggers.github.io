@@ -49,7 +49,7 @@ nav{
 .nav-button:hover{
     background-color: var(--secondary-lite-color);
 }
-.menu-open-btn,.ifnotlogin,.side-nav-menu{
+.menu-open-btn,.ifnotlogin,.side-nav-menu,.logo-side-nav,.close-sidenav-btn{
     display: none;
 }
 
@@ -114,7 +114,7 @@ nav{
         font-size: 20px;
         text-transform: capitalize;
     }
-    .logo{
+    .logo-side-nav{
         margin-top: 5px;
         margin-right: 20px;
         color: black;
